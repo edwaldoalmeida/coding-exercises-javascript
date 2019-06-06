@@ -47,4 +47,3 @@ binaryArrayToNumber([1, 0, 0, 1]) == 9 ? console.log('right') : console.log('wro
 binaryArrayToNumber([1, 1, 1, 1]) == 15 ? console.log('right') : console.log('wrong');
 binaryArrayToNumber([1, 0, 1, 1]) == 11 ? console.log('right') : console.log('wrong');
 binaryArrayToNumber([1, 1, 0, 1, 1]) == 27 ? console.log('right') : console.log('wrong');
-
