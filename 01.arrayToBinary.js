@@ -1,6 +1,7 @@
 #!/usr/bin/env node
+"use strict";
 
-/// Problem statement:
+/// Problem statement (codewars.com):
 // Given an array of ones and zeroes, convert the equivalent binary value to an integer.
 // Eg: [0, 0, 0, 1] is treated as 0001 which is the binary representation of 1.
 // Examples:
@@ -21,17 +22,21 @@
 
 /// Solution code:
 const binaryArrayToNumber = arr => {
+    
     let result = 0;
     let exponent = 0;
+    
     for (let x = arr.length-1; x >= 0; x--){
-        if ( arr[x] == 1 ){
-            result = result + 2**exponent;
+        if (arr[x] == 1){
+            result = result + (2 ** exponent);
             console.log(result);
         }
         exponent++;
     }
+
     return result;
-};
+
+}
 
 /// Testing the solution:
 binaryArrayToNumber([0, 0, 0, 1]) == 1 ? console.log('right') : console.log('wrong');
