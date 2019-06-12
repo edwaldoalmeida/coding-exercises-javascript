@@ -50,3 +50,5 @@ function sumTwoSmallestNumbers (array){
 console.log(sumTwoSmallestNumbers([19, 5, 42, 2, 77]));
 console.log(sumTwoSmallestNumbers([1, 5, 42, 2, 77]));
 console.log(sumTwoSmallestNumbers([10, 20, 42, 30, 77, 155, 1333, 2422, 35353, 353343, 2, 12313]));
+
+// www.edwaldoalmeida.com @ 2019
