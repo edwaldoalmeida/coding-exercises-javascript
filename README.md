@@ -4,7 +4,7 @@ These are coding exercises I've been doing for improving my coding skills and to
 
 ## Running
 
-I've developed these files using macOS, Node and VS Code.
+I've developed these files using macOS, Node.js and VS Code.
 
 You can run them by doing
 
@@ -22,3 +22,5 @@ You can run them by doing
    2. it will create a folder `.vscode` and add a `launch.json`
 
 Now, it's possible to run the scripts from inside VS Code, debugging (F5) or not (^F5)
+
+<a rel="edwaldoalmeida.com" href="https://www.edwaldoalmeida.com">**Edwaldo Almeida**</a> @ 2019
