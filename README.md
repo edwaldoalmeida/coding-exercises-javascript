@@ -1,6 +1,6 @@
 # Coding Exercises in JavaScript
 
-These are coding exercises I've been doing for improving my coding skills and to keep the wheel turning.
+These are coding exercises I've been doing to keep the *momentum*.
 
 ## Running
 
@@ -8,7 +8,7 @@ I've developed these files using macOS, Node.js and VS Code.
 
 You can run them by doing
 
-1. `./filename.js`
+1. `./filename.js` (I suggest to use `chmod` to make sure it is executable)
 2. `node filename.js`
 3. running from inside VS Code (see below)
 
