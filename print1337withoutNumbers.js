@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+"use strict";
 /**
  * Challenge:
  * print the number 1337 without using numbers
