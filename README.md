@@ -12,7 +12,7 @@ You can run them by doing
 2. `node filename.js`
 3. running from inside VS Code (see below)
 
-### Setting VS Code for debugging and running (my preferred)
+## Setting VS Code for debugging and running (my preferred)
 
 1. Activate Node debugging in `Code` / `Preferences` / `Settings`
    1. search for `node debug`
@@ -22,5 +22,9 @@ You can run them by doing
    2. it will create a folder `.vscode` and add a `launch.json`
 
 Now, it's possible to run the scripts from inside VS Code, debugging (F5) or not (^F5)
+
+## Disclaimer
+
+All code here is merely result of exercises strictly considering the requirements. They are not optimized nor production ready.
 
 <a rel="edwaldoalmeida.com" href="https://www.edwaldoalmeida.com">**Edwaldo Almeida**</a> @ 2019
