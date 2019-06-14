@@ -1,6 +1,6 @@
 # Coding Exercises in JavaScript
 
-These are coding exercises I've been doing to keep the *momentum*.
+Coding exercises to keep the *momentum* and because "Practice makes perfect".
 
 ## Running
 
