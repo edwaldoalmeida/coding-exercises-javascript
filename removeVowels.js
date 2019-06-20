@@ -51,3 +51,5 @@ console.log(removeVowels("taste"));
 console.log(removeVowels("asdfasdfasfasfdasf"));
 console.log(removeVowels("aeioud"));
 console.log(removeVowels("aEioUdAeLa"));
+console.log(removeVowels("a1b2e3d4"));
+console.log(removeVowels("1a2b3e4d"));
