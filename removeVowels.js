@@ -47,6 +47,7 @@ function removeVowels(inputString) {
 
 // testing the solution
 console.log(removeVowels("atest"));
+console.log(removeVowels("taste"));
 console.log(removeVowels("asdfasdfasfasfdasf"));
 console.log(removeVowels("aeioud"));
 console.log(removeVowels("aEioUdAeLa"));
