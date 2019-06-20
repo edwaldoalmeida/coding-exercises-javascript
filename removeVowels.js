@@ -15,7 +15,7 @@
  * "When you decide to solve a problem using RegEx, you end up having (at least) two problems."
  * (Don't remember the author. Adapted by Edwaldo Almeida.)
  * I'll keep an array with the characters to disconsider when traversing the input (in this case, vowels)
- * I'll Traverse the input comparing with the array and disconsidering the matches when generating the output
+ * I'll traverse the input comparing with the array and disconsidering the matches when generating the output
  */
 
 // Solution code
